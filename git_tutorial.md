@@ -20,3 +20,4 @@
 *git branch new_branch_name* -	создание новой ветки
 *git log --graph*	-	визуальное отображение веток
 *git checkout -b new_branch_name*	-	создание новой ветки и переключение на нее, если ее не существовало
+*git branch -d brach_name*	-	удаление ветки branch_name
