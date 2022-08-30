@@ -16,4 +16,4 @@
 
 ### 2 семинар
 *git branch*    -   вывод всех веток, с указанием текущей ветки
-*git branch new_branch_name*	-	создание новой ветки
+*git branch new_branch_name* -	создание новой ветки
