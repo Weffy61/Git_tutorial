@@ -17,3 +17,4 @@
 ### 2 семинар
 *git branch*    -   вывод всех веток, с указанием текущей ветки
 *git merge branch_name*	-	слияние текущей ветки с веткой branch_name
+*git branch new_branch_name* -	создание новой ветки
